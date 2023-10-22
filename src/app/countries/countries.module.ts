@@ -13,6 +13,7 @@ import { CoutriesRoutingModule } from './pages/countries-routing.module';
     CommonModule,
     CoutriesRoutingModule,
     ReactiveFormsModule,
-  ]
+  ],
+  providers: []
 })
 export class CountriesModule { }
